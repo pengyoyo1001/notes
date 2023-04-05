@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a, b;
+    double a, b;
     freopen("test.in", "r", stdin);
     freopen("test.out", "w", stdout);
     cin >> a >> b;
